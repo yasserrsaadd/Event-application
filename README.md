@@ -16,3 +16,5 @@ Event Application is a Java Swing-based application that allows users to create 
 ## How to Use
 
 1. Clone the repository to your local machine using the following command:
+
+2. git clone https://github.com/yasserrsaadd/Event-application.git
